@@ -1,0 +1,6 @@
+1.Batanov Igor Ivanovich,Лекция_6_Шаблоны_в_СИ++,IT step,2017,34,Gomel
+2.Batanov Igor Ivanovich,Лекция_5_Перегрузка_операторов_Часть_1,IT step,2016,31,Gomel
+3.Batanov Igor Ivanovich,Лекция_5_Перегрузка_операторов_Часть_2,IT step,2017,26,Gomel
+4.Batanov Igor Ivanovich,Лекция_5_Перегрузка_операторов_Часть_3,IT step,2017,14,Gomel
+5.Стивен Прата,СИ++(6-е издание),Addison Wesley,2012,1244,Moskow
+6.Герберд Шилд,СИ++(3-е издание),Osborne,2012,536,Moskow
